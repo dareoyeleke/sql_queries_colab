@@ -26,7 +26,7 @@ For my dive into the data analyst job market, I used several key tools including
 - **bash** : used to create a local directory on colab to store the imported files from drive 
 - **Git&Github** : Used for collaboration and project tracking to share my SQL queries from both IDE's.
 
-# The analysis 
+# The ANALYSIS
 Each query in this project is aimed at investigating different aspects of the Data analyst job market 
 1) **Top paying Data Analyst Jobs** - To identify the highest paying roles by filtering data analyst positions by average yearly salary, degree requirement and location.
 ```sql
